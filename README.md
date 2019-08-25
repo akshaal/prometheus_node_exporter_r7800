@@ -1,6 +1,6 @@
 # Node exporter
 
-This fork contains tiny changes requires needed to run it on the stock firmware of Netgear R7800.
+This fork contains tiny changes needed to run it on the stock firmware of Netgear R7800.
 
 Use to compile for netgear:
 
