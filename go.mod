@@ -25,4 +25,6 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
+replace github.com/prometheus/procfs => ../procfs_r7800
+
 go 1.14
